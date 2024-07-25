@@ -1,5 +1,8 @@
 # Bem-vindo ao meu perfil
   Sou **Julia**, uma desenvolvedora apaixonada por tecnologia e inovação.</p>
+<div align=""> 
+<a href="https://www.instagram.com/juliaga.briela/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+</div>
 
 ## 🎓 Educação
 - **Graduanda em Engenharia de Software** - [UnB]
@@ -16,7 +19,3 @@
 
 <!-- Linguagens Mais Usadas -->
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaGabP&layout=compact&theme=merko)
-
-### 🐍 Snake Animation
-
-![snake gif](https://github.com/JuliaGabP/JuliaGabP/blob/output/github-contribution-grid-snake-dark.svg)
