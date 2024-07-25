@@ -16,3 +16,7 @@
 
 <!-- Linguagens Mais Usadas -->
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaGabP&layout=compact&theme=merko)
+
+### 🐍 Snake Animation
+
+![GitHub Snake Animation](https://github.com/JuliaGabP/JuliaGabP/blob/output/github-contribution-grid-snake.svg)
