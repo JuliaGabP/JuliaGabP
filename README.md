@@ -1,16 +1,18 @@
-## Hi there 👋
+# Bem-vindo ao meu perfil
+  Sou **Julia**, uma desenvolvedora apaixonada por tecnologia e inovação.</p>
 
-<!--
-**JuliaGabP/JuliaGabP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 Educação
+- **Graduanda em Engenharia de Software** - [UnB]
+  
+## 🌟 Projetos Destacados
+- [**Ghostbusters**](https://github.com/SBD1/2024-1---Ghost-Busters)
+  - MUD inspirado em Ghostbusters.
+- [**FigurasGeométricas**](https://github.com/JuliaGabP/OrientacaoObjetos-UnB-2024-1)
+  - Projeto Orientado a Objetos em Python voltado para a criação, manipulação e análise de formas geométricas em um plano cartesiano.
+    
+## 📊 Estatísticas do GitHub
+<!-- Estatísticas do GitHub -->
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=JuliaGabP&show_icons=true&theme=merko)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Linguagens Mais Usadas -->
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaGabP&layout=compact&theme=merko)
