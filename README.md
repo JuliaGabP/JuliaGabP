@@ -19,4 +19,5 @@
 
 ### 🐍 Snake Animation
 
-![GitHub Snake Animation](https://github.com/JuliaGabP/JuliaGabP/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake Animation](https://github.com/JuliaGabP/JuliaGabP/blob/output/github-snake.svg)
+
