@@ -2,9 +2,16 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=008000&center=true&vCenter=true&random=false&width=1000&lines=Hi%2C+my+name+is+Julia;21+years+old;From+Brazil;Welcome%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=008000&center=true&vCenter=true&random=false&width=1000&lines=Hi%2C+my+name+is+Julia;From+Brazil)](https://git.io/typing-svg)
 
 <br>
+
+## 📬 Contact
+
+<div align="center"> 
+<a href="https://instagram.com/juliaga.briela" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href="https://www.linkedin.com/in/juliagabrielacp/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
+</div>
 
 ## 🎓 Education
 - **Software Engineering Graduate** - [UnB]
