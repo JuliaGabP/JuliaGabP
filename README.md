@@ -14,7 +14,7 @@
 </div>
 
 ## 🎓 Education
-- **software engineering student** - [UnB]
+- **Software Engineering Student** - [UnB]
   
 ## 🌟 Featured Projects
 - [**Ghostbusters**](https://github.com/SBD1/2024-1---Ghost-Busters)
