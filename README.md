@@ -21,6 +21,8 @@
   - Database inspired by a ghostbuster game.
 - [**Geometric Figures**](https://github.com/JuliaGabP/OrientacaoObjetos-UnB-2024-1)
   - Object Oriented Project in Python aimed at creating, manipulating and analyzing geometric shapes in a Cartesian plane.
+- [**Tiger Game**](https://github.com/JuliaGabP/Jogo-do-tigre)
+  - Final work on the subject of object orientation, website inspired by the Tigre game, with user crud and graph plotting to show the evolution of the balance after betting.
     
 ## 📊 GitHub Stats
 
