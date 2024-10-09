@@ -17,6 +17,8 @@
 - **Software Engineering Student** - [UnB]
   
 ## 🌟 Featured Projects
+- [**Portfolio website**](https://github.com/JuliaGabP/Site_Portfolio)
+  - Portfolio in website format, using HTML, CSS and Python.
 - [**Ghostbusters**](https://github.com/SBD1/2024-1---Ghost-Busters)
   - Database inspired by a ghostbuster game.
 - [**Geometric Figures**](https://github.com/JuliaGabP/OrientacaoObjetos-UnB-2024-1)
