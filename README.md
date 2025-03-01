@@ -11,7 +11,6 @@
 <div align="center"> 
 <a href="https://instagram.com/juliaga.briela" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href="https://www.linkedin.com/in/juliagabrielacp/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
-<a href="http://201.23.17.25:5000/" target="_blank"><img src="https://img.shields.io/badge/visit%20my%20website-229A00" style="border-radius: 30px" target="_blank"></a>
 </div>
 
 ## 🎓 Education
