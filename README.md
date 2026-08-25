@@ -46,7 +46,11 @@
 
 <div align="center">
   <br>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=JuliaGabP&theme=merko" />
+  <img
+    height="180em"
+    src="https://streak-stats.demolab.com?user=JuliaGabP&theme=merko"
+    alt="GitHub Streak"
+  />
 </div>
 
 <div align="center" >
