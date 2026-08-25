@@ -37,10 +37,10 @@
 ## Featured Projects
 - [**Government Trips**](https://github.com/JuliaGabP/BI_ViagensGov)
   - This repository contains the development of a Data Warehouse using the Medallion architecture, applied to public data on official trips from the Brazilian Federal Government, obtained from the Transparency Portal.
-- [**Portfolio website**](https://github.com/JuliaGabP/SitePortfolio)
-  - Portfolio in website format, using HTML, CSS and Python.
-- [**Geometric Figures**](https://github.com/JuliaGabP/OrientacaoObjetos-UnB-2024-1)
-  - Object Oriented Project in Python aimed at creating, manipulating and analyzing geometric shapes in a Cartesian plane.
+- [**Space Shooter Game**](https://github.com/JuliaGabP/EspaconaveDisparaBalas)
+  - A space shooter game where the player controls a spaceship and shoots bullets at enemies.
+- [**PDF Translator**](https://github.com/JuliaGabP/TradutorPDF)
+  - A tool that translates the content of PDF documents.
 
 ## GitHub Stats
 
